@@ -6,3 +6,7 @@
 /build
 /captures
 .externalNativeBuild
+skin_plugin/release/skin_plugin.aab
+skin_plugin/release/skin.apk
+skin_plugin/release/output.json
+skin.jks
