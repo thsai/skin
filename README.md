@@ -7,7 +7,7 @@
 implementation 'com.github.thsai:skin:1.0.0'
 ```
 2. 在application中加入一行代码即可开启换肤
-```Java
+```kotlin
 SkinManager.init(this)
 ```
 3. 另新建一个module，并在资源文件中（例如res/value/colors.xml）定义与主apk对应的换肤资源值，然后打包生成一个仅包含换肤资源的skin.apk
@@ -16,4 +16,4 @@ SkinManager.init(this)
 ```kotlin
  SkinManager.getInstance().loadSkin(skinpath)
 ```
-skinpath即为换肤apk的路径
+  skinpath即为换肤apk的路径
