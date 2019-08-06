@@ -1,4 +1,4 @@
-package com.thsai.skin
+package com.thsai.example
 
 import androidx.test.InstrumentationRegistry
 import androidx.test.runner.AndroidJUnit4

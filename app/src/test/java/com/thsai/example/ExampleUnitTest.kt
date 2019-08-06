@@ -1,4 +1,4 @@
-package com.thsai.skin
+package com.thsai.example
 
 import org.junit.Test
 

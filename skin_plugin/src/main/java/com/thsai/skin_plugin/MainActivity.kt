@@ -1,4 +1,4 @@
-package com.thsai.skin
+package com.thsai.skin_plugin
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
